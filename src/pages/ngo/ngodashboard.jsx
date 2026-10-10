@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import NearbyMap from "../../components/nearbyMap.jsx";
+import NearbyMap from "../../components/nearbymap.jsx";
 
 import {
   FaBuilding,
